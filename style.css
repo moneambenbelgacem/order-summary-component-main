@@ -16,7 +16,7 @@ body
     position: relative;
     font-size: 16px;
 }
-.container{
+.my-container{
     position: absolute;
     left: 50%;
     top: 50%;
@@ -110,7 +110,7 @@ a.cancel-btn:hover{
         background-image: url(./images/pattern-background-mobile.svg);
         font-size: 14px;
     }
-    .container{
+    .my-container{
         max-width: 87%;
     }
     .title{
